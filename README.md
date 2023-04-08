@@ -19,8 +19,6 @@ An animation that creates a ripple effect when a user taps a widget
 ### Splash Screen Animation: 
 An animation that displays a logo or other image while the app loads
 
-Each animation tutorial is organized in its own directory, which contains a README.md file with a brief description of the animation and instructions on how to implement it. Additionally, each directory contains the source code for the animation.
-
 ## 🚀 How to use
 To use the animation tutorial, simply navigate to the directory for the animation you wish to learn and follow the instructions in the README.md file. You can also view the source code to see how the animation was implemented.
 
